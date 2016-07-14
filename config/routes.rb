@@ -1,5 +1,9 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
   get 'home/index'
+=======
+  get 'home/insex'
+>>>>>>> 7a834c6e6f4dc21fe3a16aa4668ef9012fd67bd0
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
